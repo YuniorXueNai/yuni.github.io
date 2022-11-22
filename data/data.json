@@ -1,0 +1,14 @@
+{
+  "fields": ["country", "city", "times", "X_COORD", "Y_COORD"],
+  "rows": [ 
+    {
+      "country": "中国",
+      "city": "浙江越秀外国语学院",
+      "date": "#1",
+      "remark": "2020.9 我步入了这所学校，开始了为期四年的学习。2021.12.21 我遇到了最重要的人。",
+      "imgs": ["./浙江绍兴/school/1.png"],
+      "X_COORD": "120.532146",
+      "Y_COORD": "30.069301"
+    }
+  ]
+}
